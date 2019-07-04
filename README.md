@@ -1,1 +1,3 @@
-# Weather for chosen city using APIXU API
+# Weather Checker
+
+Made using vanilla JavaScript, Fetch API & Bootstrap
